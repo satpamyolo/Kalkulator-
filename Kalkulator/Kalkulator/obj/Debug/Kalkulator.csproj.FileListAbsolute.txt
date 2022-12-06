@@ -1,0 +1,12 @@
+D:\kulyeah\Semester 3\pemrog\1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+D:\kulyeah\Semester 3\pemrog\1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+D:\kulyeah\Semester 3\pemrog\1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form_Hasil.resources
+D:\kulyeah\Semester 3\pemrog\1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.FormInput.resources
+D:\kulyeah\Semester 3\pemrog\1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+D:\kulyeah\Semester 3\pemrog\1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+D:\kulyeah\Semester 3\pemrog\1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+D:\kulyeah\Semester 3\pemrog\1\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+D:\kulyeah\Semester 3\pemrog\1\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+D:\kulyeah\Semester 3\pemrog\1\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\kulyeah\Semester 3\pemrog\1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+D:\kulyeah\Semester 3\pemrog\1\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
